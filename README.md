@@ -25,7 +25,5 @@ Test V6.11 Use only one phase in each sequence circuit calculation and then inve
                             distortion, changed deadtime expression, verified with test
 Test V6.13 Improved linear circuit impedance and harmonic calculation
 Test V6.14 Compare frequency-invariant method (ita0 = vsa./Zeq, line 1670-1689) vs.
-           proposed method (it1 = vs1./Zeq1; it2 = vs2./Zeq2; ita = it1 +
-           it2), constrasted plot in Figure 45, prediction error in
-           Figure 46.
+           proposed method (it1 = vs1./Zeq1; it2 = vs2./Zeq2; ita = it1 + it2), constrasted plot in Figure 45, prediction error in Figure 46.
 Test V6.15 Simplified harmonic synthesis using complex-number representation: Cmn_a = Amn_ph.*exp(j*Theta_a)... (line 1296-1233)
